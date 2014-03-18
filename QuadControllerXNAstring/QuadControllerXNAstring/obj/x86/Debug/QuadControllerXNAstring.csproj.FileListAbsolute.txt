@@ -1,0 +1,6 @@
+C:\arduino-1.0.4\Quadcopter\WinApps\QuadControllerXNAstring\QuadControllerXNAstring\QuadControllerXNAstring\bin\x86\Debug\QuadControllerXNAstring.exe
+C:\arduino-1.0.4\Quadcopter\WinApps\QuadControllerXNAstring\QuadControllerXNAstring\QuadControllerXNAstring\bin\x86\Debug\QuadControllerXNAstring.pdb
+C:\arduino-1.0.4\Quadcopter\WinApps\QuadControllerXNAstring\QuadControllerXNAstring\QuadControllerXNAstring\obj\x86\Debug\QuadControllerXNAstring.csprojResolveAssemblyReference.cache
+C:\arduino-1.0.4\Quadcopter\WinApps\QuadControllerXNAstring\QuadControllerXNAstring\QuadControllerXNAstring\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\arduino-1.0.4\Quadcopter\WinApps\QuadControllerXNAstring\QuadControllerXNAstring\QuadControllerXNAstring\obj\x86\Debug\QuadControllerXNAstring.exe
+C:\arduino-1.0.4\Quadcopter\WinApps\QuadControllerXNAstring\QuadControllerXNAstring\QuadControllerXNAstring\obj\x86\Debug\QuadControllerXNAstring.pdb

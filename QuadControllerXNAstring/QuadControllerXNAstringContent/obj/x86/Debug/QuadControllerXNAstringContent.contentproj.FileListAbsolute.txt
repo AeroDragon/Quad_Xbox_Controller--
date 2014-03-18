@@ -1,0 +1,1 @@
+C:\arduino-1.0.4\Quadcopter\WinApps\QuadControllerXNAstring\QuadControllerXNAstring\QuadControllerXNAstringContent\obj\x86\Debug\QuadControllerXNAstringContent.contentprojResolveAssemblyReference.cache
